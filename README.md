@@ -1,2 +1,2 @@
-# 42_Ft-Printf
+# 42-Ft_Printf
 Complete Ft_Printf project, including the project PDF's.
